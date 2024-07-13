@@ -13,8 +13,6 @@ description: An elegant Jekyll theme
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
-
-exclude: [vendor]
 #
 # Flags below are optional
 #
@@ -95,6 +93,7 @@ paginate_path: /page:num/
 
 # Exclude these files from your production _site
 exclude:
+  - vendor
   - Gemfile
   - Gemfile.lock
   - LICENSE
