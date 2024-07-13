@@ -31,7 +31,7 @@ html {
 }
 
 body {
-  background: var(--web_bg_color, var(--color-bg-primary));
+  background: var(--backgroundColor);
   line-height: 1.7;
   font-weight: 400;
   font-size: 18px;
