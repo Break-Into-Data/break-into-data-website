@@ -4,4 +4,6 @@ layout: page
 
 Welcome to Break Into Data
 
-<iframe src="https://breakintodata.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<div class="text-align: center">
+    <iframe src="https://breakintodata.substack.com/embed" style="width: 400px; max-width: calc(100vw - 20px);" frameborder="0" scrolling="no"></iframe>
+</div>
