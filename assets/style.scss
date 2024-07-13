@@ -31,7 +31,7 @@ html {
 }
 
 body {
-  background: var(--backgroundColor);
+  background: $backgroundColor;
   line-height: 1.7;
   font-weight: 400;
   font-size: 18px;
@@ -110,14 +110,14 @@ table tr:nth-child(2n) {
 
 table tr th {
 	font-weight: bold;
-	border: 1px solid var(--borderColor);
+	border: 1px solid $borderColor;
 	text-align: left;
 	margin: 0;
 	padding: 6px 13px;
 }
 
 table tr td {
-	border: 1px solid var(--borderColor);
+	border: 1px solid $borderColor;
 	text-align: left;
 	margin: 0;
 	padding: 6px 13px;
@@ -149,7 +149,7 @@ table tr td :last-child {
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
-  border: 1px solid var(--borderColor);
+  border: 1px solid $borderColor;
   border-radius: 4px;
   box-sizing: border-box;
   font-size: 18px;
@@ -636,7 +636,7 @@ Modules - reusable parts of our design
   max-width: 270px;
   border-radius: 4px;
   text-align: center;
-  border: dashed 1px var(--borderColor);
+  border: dashed 1px $borderColor;
   background-color: hsl(0, 0%, 98%);
   font-size: var(--font-size);
   line-height: 1.5;
@@ -710,7 +710,7 @@ Modules - reusable parts of our design
 
 .pagination a, .pagination span {
   padding: 7px 18px;
-  border: 1px solid var(--borderColor);
+  border: 1px solid $borderColor;
   margin-left: -2px;
   margin-right: -2px;
   // background-color: #ffffff;
@@ -768,7 +768,7 @@ Modules - reusable parts of our design
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
-  border: 1px solid var(--borderColor);
+  border: 1px solid $borderColor;
   border-radius: 4px;
   box-sizing: border-box;
 }
@@ -786,7 +786,7 @@ Modules - reusable parts of our design
 }
 
 .tinyletterForm {
-  border: 1px solid var(--borderColor);
+  border: 1px solid $borderColor;
   padding: 3px;
   text-align: center;
   // background: #ececec;
@@ -948,7 +948,7 @@ Modules - reusable parts of our design
   height: 0;
   width: 0;
   border: 7px solid transparent;
-  border-right: 7px solid var(--borderColor);
+  border-right: 7px solid $borderColor;
 }
 @media only screen and (min-width: 768px) {
   .cd-timeline-content h2 {
@@ -974,7 +974,7 @@ Modules - reusable parts of our design
     top: 24px;
     left: 100%;
     border-color: transparent;
-    border-left-color: var(--borderColor);
+    border-left-color: $borderColor;
   }
   .cd-timeline-content .cd-read-more {
     float: left;
@@ -995,7 +995,7 @@ Modules - reusable parts of our design
     left: auto;
     right: 100%;
     border-color: transparent;
-    border-right-color: var(--borderColor);
+    border-right-color: $borderColor;
   }
   .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-read-more {
     float: right;
