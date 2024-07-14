@@ -16,7 +16,6 @@ What you will get:
 </div>
 
 <div class="discord-widget container">
-    <img src="path/to/discord-logo.png" alt="Discord Logo" class="discord-logo">
     <h1>Join Our Discord Server</h1>
     <p class="subtitle">Let's connect and discuss data in our community.</p>
     <div class="server-stats">
@@ -25,7 +24,7 @@ What you will get:
             <span class="stat-label">Online Now</span>
         </div>
     </div>
-    <a href="#" id="join-button" class="join-button btn-subscribe">Join Server</a>
+    <a href="#" id="join-button" class="join-button">Join Server</a>
 </div>
 
 
