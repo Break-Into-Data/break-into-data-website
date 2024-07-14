@@ -2,7 +2,13 @@
 layout: page
 ---
 
-Welcome to Break Into Data  
+Whether you're aiming for that dream job, wanting to boost your skills, acing academics, or even achieving fitness goals, **Break Into Data** is a community that will support and empower you to reach new heights!  
+
+What you will get:
+- Insights and Projects on the latest in data, the job industry, and advanced cutting-edge projects from industry experts.
+- Professional tutorials breaking down concepts from complex CTEs to optimizing DAGs to feature engineering
+- Panel Discussions with news that keeps you ahead in the game (and maybe even in real life).
+- Podcasts, videos and more!
 
 
 <div class="text-align: center">
@@ -10,12 +16,10 @@ Welcome to Break Into Data
 </div>
 
 <div class="discord-widget container">
+    <img src="path/to/discord-logo.png" alt="Discord Logo" class="discord-logo">
     <h1>Join Our Discord Server</h1>
+    <p class="subtitle">Let's connect and discuss data in our community.</p>
     <div class="server-stats">
-        <div class="stat-box">
-            <span id="total-members">0</span>
-            <span class="stat-label">Total Members</span>
-        </div>
         <div class="stat-box">
             <span id="online-members">0</span>
             <span class="stat-label">Online Now</span>
@@ -31,9 +35,7 @@ Welcome to Break Into Data
     fetch(apiUrl)
       .then(response => response.json())
       .then(data => {
-        document.getElementById('total-members').textContent = data.members;
         document.getElementById('online-members').textContent = data.presence_count;
-        
         document.getElementById('join-button').href = data.instant_invite;
       });
 </script>
