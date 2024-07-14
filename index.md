@@ -31,7 +31,7 @@ Welcome to Break Into Data
     fetch(apiUrl)
       .then(response => response.json())
       .then(data => {
-        document.getElementById('total-members').textContent = data.members.length;
+        document.getElementById('total-members').textContent = data.members;
         document.getElementById('online-members').textContent = data.presence_count;
         
         document.getElementById('join-button').href = data.instant_invite;

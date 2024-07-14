@@ -65,6 +65,41 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.discord-widget {
+  text-align: center;
+  background-color: rgba(54, 57, 63, 0.3);
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.server-stats {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.stat-box {
+  display: flex;
+  flex-direction: column;
+}
+
+.stat-box span:first-child {
+  font-size: 24px;
+  font-weight: bold;
+  color: #7289DA;
+}
+
+.join-button {
+  background-color: #7289DA;
+  color: white;
+  padding: 10px 20px;
+  font-size: 18px;
+}
+
+.join-button:hover {
+  background-color: #5B6EAE;
+}
+
 h1 {
   font-size: 30px;
   a {
