@@ -23,14 +23,14 @@ html {
   background-position: bottom;
 }
 
-// * {
-//   font-family: 'Inter', sans-serif;
-//   font-optical-sizing: auto;
-//   font-style: normal;
-//   font-variation-settings:
-//     "slnt" 0;
-//   color: #f1f5f9;
-// }
+* {
+  font-family: sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+  color: #f1f5f9;
+}
 
 body, h1, h2, h3, p, div, span {
   font-family: $mainFont;
@@ -140,9 +140,9 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
-  // a {
-  //   color: inherit;
-  // }
+  a {
+    color: inherit;
+  }
 }
 
 h2 {
