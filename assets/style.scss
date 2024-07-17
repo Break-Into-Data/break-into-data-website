@@ -32,6 +32,10 @@ html {
   color: #f1f5f9;
 }
 
+body, h1, h2, h3, p, div, span {
+  font-family: 'Inter', sans-serif;
+}
+
 body {
   background: linear-gradient(-162deg, rgb(28, 23, 44) 0%, rgba(0, 0, 0, 1) 400px, rgba(0, 0, 0, 1) 100%);
   height: auto;
@@ -175,9 +179,9 @@ table tr {
 	padding: 0;
 }
 
-table tr:nth-child(2n) {
-	// background-color: #f8f8f8;
-}
+// table tr:nth-child(2n) {
+// 	background-color: #f8f8f8;
+// }
 
 table tr th {
 	font-weight: bold;
