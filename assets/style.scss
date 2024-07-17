@@ -85,12 +85,12 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .discord-widget h1 {
-  font-size: 30px;
+  font-size: 24px;
   margin-bottom: 10px;
 }
 
 .subtitle {
-  font-size: 18px;
+  font-size: 14px;
   margin-bottom: 30px;
   opacity: 0.8;
 }
@@ -109,7 +109,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .stat-box span:first-child {
-  font-size: 28px;
+  font-size: 24px;
   font-weight: bold;
   color: #7289DA;
 }
@@ -139,14 +139,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 24px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 22px;
 }
 
 @media (min-width: 769px){
@@ -170,6 +170,7 @@ h4 {
 }
 
 p {
+  font-size: 16px;
   margin: 15px 0;
 }
 
