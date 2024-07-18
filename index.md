@@ -16,7 +16,7 @@ What you will get:
 </div>
 
 <div class="discord-widget container">
-    <h1>Join Our Discord Server</h1>
+    <h1><span class="discord-logo"></span>Join Our Discord Server</h1>
     <p class="subtitle">Let's connect and discuss data in our community.</p>
     <div class="server-stats">
         <div class="stat-box">
