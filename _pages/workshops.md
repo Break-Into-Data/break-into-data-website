@@ -15,6 +15,7 @@ permalink: /workshops/
     <a href="https://buy.stripe.com/14k8xQ2UV9Rnepq7ss" class="button primary-button workshops-enroll-button">Enroll Now</a>
     <a href="#" class="button secondary-button workshops-learnmore-button">Learn More</a>
 </div>
+<!-- <img src="/images/workshops-banner.jpg" alt="Workshops Banner" style="width: 100%; height: auto; margin-top: 20px; margin-bottom: 20px;"> -->
 
 ---
 <h1>Applied Computer Vision: Real-Time Soccer Tracking and Prediction System</h1>
@@ -24,9 +25,10 @@ permalink: /workshops/
 
 <h2 style="font-weight: 300"> Immerse yourself in a professional environment where you'll learn to build real-time video analysis and predictive modeling systems.</h2>
 
-📅 **When:** [Insert Dates Here]
+📅 **When:** Aug 3 - Aug 10, 2024
+<img src="/images/workshops-banner.jpg" alt="Workshops Banner" style="width: 100%; height: auto; margin-top: 20px; margin-bottom: 20px;">
 
----
+
 <h2 class="centered-header">Why Choose This Workshop?</h2>
 
 Unlike regular Kaggle projects on Jupyter notebooks that don't prepare you for professional data science standards or collaborative work, our workshop offers:
@@ -214,3 +216,5 @@ Don't do it alone - be part of a small cohort of other participants buillding re
 ---
 
 Experience a comprehensive workshop that prepares you for real-world tech projects. Apply now and take the first step towards mastering video tracking systems. Don’t miss this opportunity to advance your skills and career! 🌟
+<br><br>
+If you have any questions or feedback, please reach out to us at <a href="mailto:info@breakintodata.io" style="color: #7756e3;">info@breakintodata.io</a>
