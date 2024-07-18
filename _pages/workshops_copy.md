@@ -1,23 +1,10 @@
 ---
 layout: page
-permalink: /workshops/
+permalink: /workshops_copy/
 ---
 
 
-<div class="page-hero pt-[25vh]">
-    <!-- <span class="page-hero-abovetitle">Introducing</span> -->
-    
-    <h1 class="page-hero-title">
-        <span class="rainbow-text-animated">Corporate</span><br> Machine&nbsp;Learning
-    </h1>
-    <h2 class="page-hero-smalltitle">
-        Practical&nbsp;Workshops
-    </h2>
-    <a href="#" class="button primary-button workshops-enroll-button">Enroll Now</a>
-    <a href="#" class="button secondary-button workshops-learnmore-button">Learn More</a>
-</div>
-
-<span class="text-xl mb-40">My text</span>
+# Real-Time Soccer Tracking and Prediction System
 
 <!-- Below should be like tags here  -->
 <span class="page-tags">NEW · 1 WEEK · COHORT-BASED COURSE</span>
