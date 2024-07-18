@@ -15,30 +15,27 @@
 
     <meta name="theme-color" content="#000000">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
-    
   </head>  
   <body>
     <div class="wrapper-container">
-      <div class="wrapper-masthead">
-        <div class="container">
-          <header class="masthead clearfix">
-            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
+      <header class="site-header flex justify-between">
+        <div class="header-left ml-5">
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
 
-            <div class="site-info">
-              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-              <p class="site-description">{{ site.description }}</p> 
-            </div>
-
-            <nav>
-              <a href="{{ site.baseurl }}/">Home</a>
-              <a href="{{ site.baseurl }}/workshops">Workshop</a>
-              <a href="{{ site.baseurl }}/search">Search</a>
-              <a href="{{ site.baseurl }}/about">About</a>
-              <a href="{{ site.baseurl }}/archive">Archive</a>
-            </nav>
-          </header>
+          <div class="site-info">
+            <h1 class="site-name">{{ site.name }}</h1>
+            <!-- <p class="site-description">{{ site.description }}</p>  -->
+          </div>
         </div>
-      </div>
+
+        <div class="header-right mr-5">
+          <nav>
+            <a href="{{ site.baseurl }}/">Home</a>
+            <a href="{{ site.baseurl }}/workshops">Workshop</a>
+            <a href="{{ site.baseurl }}/about">About</a>
+          </nav>
+        </div>
+      </header>
 
       <div class="wrapper-main">
         <div id="main" role="main" class="container">

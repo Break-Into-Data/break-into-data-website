@@ -1,24 +1,10 @@
 ---
 layout: page
-permalink: /workshops/
+permalink: /workshops_copy/
 ---
 
 
-<div class="page-hero pt-[25vh]">
-    <!-- <span class="page-hero-abovetitle">Introducing</span> -->
-    
-    <h1 class="page-hero-title">
-        <span class="rainbow-text-animated">Corporate</span><br> Machine&nbsp;Learning
-    </h1>
-    <h2 class="page-hero-smalltitle">
-        Practical&nbsp;Workshops
-    </h2>
-    <a href="#" class="button primary-button workshops-enroll-button">Enroll Now</a>
-    <a href="#" class="button secondary-button workshops-learnmore-button">Learn More</a>
-</div>
-
----
-<h1>Real-Time Soccer Tracking and Prediction System</h1>
+# Real-Time Soccer Tracking and Prediction System
 
 <!-- Below should be like tags here  -->
 <span class="page-tags">NEW · 1 WEEK · COHORT-BASED COURSE</span>
@@ -58,34 +44,26 @@ We are providing the real-world job experience by:
 Don't do it alone - be part of a small cohort of other participants buillding real application systems.
 
 ---
-<details>
-  <summary>This Course Is For You If You Are:</summary>
-<!-- ## This Course Is For You If You Are: -->
-  <ol>
-    <li>Looking to upskill and gain practical experience in video analysis and machine learning.</li>
-    <li>Interested in working in a real-world project development environment.</li>
-    <li>Seeking to bridge the gap between academic learning and professional work.</li>
-    <li>Ready to enhance your problem-solving and collaboration skills for your next job.</li>
-  </ol>
-</details>
+## This Course Is For You If You Are:
+
+- Looking to upskill and gain practical experience in video analysis and machine learning.
+- Interested in working in a real-world project development environment.
+- Seeking to bridge the gap between academic learning and professional work.
+- Ready to enhance your problem-solving and collaboration skills for your next job.
 
 ---
-<details>
-  <summary>What You’ll Get Out of This Course</summary>
-  <ol>
-    <li>Advanced Technical Skills</li>
-    <li>Real-World Project Management Experience</li>
-    <li>Mentorship and Guidance</li>
-    <li>Community Support</li>
-    <li>Comprehensive Resources</li>
-    <li>Practical Applications</li>
-    <li>Continuous Improvement</li>
-    <li>Recorded Sessions</li>
-    <li>Networking Opportunities</li>
-    <li>Certificate of Completion</li>
-  </ol>
-</details>
----
+## What You’ll Get Out of This Course
+
+1. **Advanced Technical Skills:** Learn and apply machine learning techniques in video analysis, real-time data processing, interactive presentation, and more
+2. **Real-World Project Management Experience:** Gain hands-on experience with task management and workflow systems, simulating a professional environment.
+3. **Mentorship and Guidance:** Work closely with experienced mentors who provide personalized feedback and support throughout the project.
+4. **Community Support:** Join a community of like-minded individuals, sharing knowledge and collaborating on problem-solving.
+5. **Comprehensive Resources:** Access to detailed learning materials, code repositories, and an LLM Chatbot trained on all workshop materials for instant assistance.
+6. **Practical Applications:** Developing an end-to-end application tool can not only help you build MVPs and POCs but also is a skill transferable to various domains.
+7. **Continuous Improvement:** Learn how to identify and implement improvements in your project, ensuring ongoing development and refinement.
+8. **Recorded Sessions:** All live sessions will be recorded, providing you with the ability to review and learn at your own pace.
+9. **Networking Opportunities:** Connect with professionals and peers in the tech and data communities, expanding your professional network.
+10. **Certificate of Completion:** Earn a certificate upon completing the workshop, showcasing your new skills and achievements.
 
 <!-- Top performers will be able get FREE Resume Review and LinkedIn Optimization resources and will get a chance to be on our LinkedIn page, reaching an audience of 100k+ weekly impressions. -->
 <!-- INSERT BUY NOW BUTTON WIDGET HERE or on the side-->
@@ -133,36 +111,12 @@ Don't do it alone - be part of a small cohort of other participants buillding re
 
 🧑🏽‍💻 **Mishahal Palakuniyil:** A seasoned data professional and mentor, Mishahal specializes in data analytics and machine learning. Their expertise will be invaluable as you navigate the complexities of the project.
 
-<h2 class="centered-header">This is what people are saying</h2>
-<div class="testimonials">
-    <div class="testimonial">
-      ⭐️ 
-      <div class="testimonial-text">
-        “This workshop was a game-changer for me. The real-world experience and mentorship helped me land my first job in data engineering.”
-      </div>
-      <div class="testimonial-author">
-        - Madhav 
-      </div>
-    </div>
-  <div class="testimonial">
-    ⭐️ 
-    <div class="testimonial-text">
-    “The hands-on approach and the supportive environment made learning fun and effective. I highly recommend this workshop!”
-    </div>
-    <div class="testimonial-author">
-      - Dawn
-    </div>
-  </div>
-  <div class="testimonial">
-    ⭐️ 
-    <div class="testimonial-text">
-    “The combination of project management, technical skills, and mentorship provided a comprehensive learning experience that truly prepared me for my career.”
-    </div>
-    <div class="testimonial-author">
-     - Leo
-    </div>
-  </div>
-</div>
+### Testimonials
+⭐️ **"This workshop was a game-changer for me. The real-world experience and mentorship helped me land my first job in data engineering."** - Madhav 
+
+⭐️ **"The hands-on approach and the supportive environment made learning fun and effective. I highly recommend this workshop!"** - Dawn
+
+⭐️ **"The combination of project management, technical skills, and mentorship provided a comprehensive learning experience that truly prepared me for my career."** - Leo
 
 ---
 
