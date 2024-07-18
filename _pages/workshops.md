@@ -4,7 +4,7 @@ permalink: /workshops/
 ---
 
 
-# Real-Time Soccer Tracking and Prediction System
+<h1>Real-Time Soccer Tracking and Prediction System</h1>
 
 <!-- Below should be like tags here  -->
 NEW · 1 WEEK · COHORT-BASED COURSE
@@ -34,7 +34,7 @@ We are providing the real-world job experience by:
 - **Live Implementation:** Participate in live sessions where you'll implement project parts and get real-time feedback.
 
 **Preliminary Requirements:**
-1. Basic Python knowledge and familiarity with libraries such as NumPy, pandas, scikit-learn, etc.
+1. Basic Python knowledge.
 2. Familiar with basic Machine Learning concepts (e.g., supervised learning, regression, classification).
 3. Understanding of Git and GitHub for version control.
 4. Basic understanding of web frameworks such as Streamlit for building interactive web applications.(Optional but Beneficial)
