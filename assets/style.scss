@@ -39,6 +39,8 @@ body, h1, h2, h3, p, a, div, span {
   font-variation-settings:
     "slnt" 0;
   color: #f1f5f9;
+  text-align: justify;
+  hyphens: auto;
 }
 
 body {
@@ -131,17 +133,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #additional-users {
+  width: 32px;
+  height: 32px;
   background-color: #36393f;
   color: #fff;
   border-radius: 50%;
-  padding: 5px 8px;
+  padding: 6px 5px;
   font-size: 12px;
-  margin-left: 5px;
 }
 
 .stat-box {
   display: flex;
   align-items: center;
+  justify-content: center;
+  margin-bottom: 5px;
 }
 
 .online-indicator {
