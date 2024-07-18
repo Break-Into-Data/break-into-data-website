@@ -475,24 +475,28 @@ p > img {
 }
 
 nav {
-  display: flex;
-  justify-content: center;
-  margin-top: 23px;
+  /* Remove float */
+  float: none;
+  /* Center the nav */
+  text-align: center;
+  /* Add some top margin to position it below the title and image */
+  margin-top: 20px;
   font-size: 18px;
 
   @include mobile {
-    margin-top: 9px;
+    margin-top: 15px;
     font-size: 16px;
   }
 
   a {
-    padding: 0 10px; // Instead of margin-left
-    text-align: center; // Changed from right to center
+    /* Remove left margin and add some horizontal padding */
+    margin-left: 0;
+    padding: 0 10px;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
-      padding: 0 5px; // Adjusted for mobile
+      padding: 0 5px;
     }
   }
 }
