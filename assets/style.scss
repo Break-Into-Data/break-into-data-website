@@ -475,28 +475,24 @@ p > img {
 }
 
 nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  // font-family: $helveticaNeue;
+  display: flex;
+  justify-content: center;
+  margin-top: 23px;
   font-size: 18px;
 
   @include mobile {
-    float: none;
     margin-top: 9px;
-    display: block;
     font-size: 16px;
   }
 
   a {
-    margin-left: 20px;
-    // color: $darkGray;
-    text-align: right;
+    padding: 0 10px; // Instead of margin-left
+    text-align: center; // Changed from right to center
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
-      margin: 0 10px;
-      // color: $blue;
+      padding: 0 5px; // Adjusted for mobile
     }
   }
 }
