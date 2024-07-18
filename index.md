@@ -1,4 +1,5 @@
 ---
+title: Build. Learn. Show
 layout: page
 ---
 
