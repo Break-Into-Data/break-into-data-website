@@ -92,7 +92,7 @@ body {
   align-items: center;
 
   @include mobile {
-    margin-left: 15px;
+    margin-left: 0px;
   }
 }
 
@@ -102,7 +102,7 @@ body {
   align-items: center;
 
   @include mobile {
-    margin-right: 15px;
+    margin-right: 0px;
   }
 }
 
@@ -150,7 +150,6 @@ h1, h2, h3, h4, h5, h6 {
 .subtitle {
   font-size: 14px;
   margin-bottom: 15px;
-  opacity: 0.8;
 }
 
 .server-stats {
@@ -459,13 +458,16 @@ p > img {
   position: sticky;
   width: 100%;
   padding: 10px 0;
-  border-bottom: 1px solid $textSecondaryColor;
+  border-bottom: 1px solid $accentColor;
   display: flex;
   align-items: center;
   justify-content: space-between;
 
   @include mobile {
+    background: #00000000;
+    position: relative;
     text-align: center;
+    flex-direction: column;
   }
 }
 
@@ -510,6 +512,7 @@ p > img {
   text-align: left;
 
   @include mobile {
+    margin-left: 12px;
     text-align: center;
   }
 }
@@ -617,6 +620,9 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 12px;
 }
 
 body:after {
@@ -1333,15 +1339,19 @@ Modules - reusable parts of our design
 
 
 .page-hero {
+  // border-left: 1px solid $textSecondaryColor;
+  // border-right: 1px solid $textSecondaryColor;
   margin-bottom: 20px;
   min-height: 200px;
-  height: 80vh;
+  height: calc(100vh - 165px);
   text-align: left;
-  padding-top: 20vh;
+  padding-top: 22vh;
 
   @include mobile {
     padding: 10vh 20px 0 20px;
-    padding-top: 0;
+    padding-top: 6vh;
+    padding-bottom: 6vh;
+    height: initial;
   }
 }
 
@@ -1381,10 +1391,14 @@ Modules - reusable parts of our design
 }
 
 .workshops-enroll-button {
-  margin-top: 50px;
+  margin-top: 30px;
   background-color: $textPrimaryColor;
   color: black;
   transition: background 0.3s ease;
+
+  @include mobile {
+    margin-top: 15px;
+  }
 
   &:hover {
     background-color: $accentColor;
@@ -1393,10 +1407,15 @@ Modules - reusable parts of our design
 }
 
 .workshops-learnmore-button {
-  margin-top: 50px;
+  margin-top: 30px;
   background-color: #00000000;
   color: $textPrimaryColor;
   border: 1px solid #00000000;
+  margin-left: 12px;
+
+  @include mobile {
+    margin-top: 15px;
+  }
 
   transition: border 0.3s ease;
 

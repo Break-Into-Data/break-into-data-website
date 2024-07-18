@@ -17,7 +17,8 @@ permalink: /workshops/
     <a href="#" class="button secondary-button workshops-learnmore-button">Learn More</a>
 </div>
 
-<span class="text-xl mb-40">My text</span>
+---
+<h1>Real-Time Soccer Tracking and Prediction System</h1>
 
 <!-- Below should be like tags here  -->
 <span class="page-tags">NEW · 1 WEEK · COHORT-BASED COURSE</span>
@@ -57,26 +58,34 @@ We are providing the real-world job experience by:
 Don't do it alone - be part of a small cohort of other participants buillding real application systems.
 
 ---
-## This Course Is For You If You Are:
-
-- Looking to upskill and gain practical experience in video analysis and machine learning.
-- Interested in working in a real-world project development environment.
-- Seeking to bridge the gap between academic learning and professional work.
-- Ready to enhance your problem-solving and collaboration skills for your next job.
+<details>
+  <summary>This Course Is For You If You Are:</summary>
+<!-- ## This Course Is For You If You Are: -->
+  <ol>
+    <li>Looking to upskill and gain practical experience in video analysis and machine learning.</li>
+    <li>Interested in working in a real-world project development environment.</li>
+    <li>Seeking to bridge the gap between academic learning and professional work.</li>
+    <li>Ready to enhance your problem-solving and collaboration skills for your next job.</li>
+  </ol>
+</details>
 
 ---
-## What You’ll Get Out of This Course
-
-1. **Advanced Technical Skills:** Learn and apply machine learning techniques in video analysis, real-time data processing, interactive presentation, and more
-2. **Real-World Project Management Experience:** Gain hands-on experience with task management and workflow systems, simulating a professional environment.
-3. **Mentorship and Guidance:** Work closely with experienced mentors who provide personalized feedback and support throughout the project.
-4. **Community Support:** Join a community of like-minded individuals, sharing knowledge and collaborating on problem-solving.
-5. **Comprehensive Resources:** Access to detailed learning materials, code repositories, and an LLM Chatbot trained on all workshop materials for instant assistance.
-6. **Practical Applications:** Developing an end-to-end application tool can not only help you build MVPs and POCs but also is a skill transferable to various domains.
-7. **Continuous Improvement:** Learn how to identify and implement improvements in your project, ensuring ongoing development and refinement.
-8. **Recorded Sessions:** All live sessions will be recorded, providing you with the ability to review and learn at your own pace.
-9. **Networking Opportunities:** Connect with professionals and peers in the tech and data communities, expanding your professional network.
-10. **Certificate of Completion:** Earn a certificate upon completing the workshop, showcasing your new skills and achievements.
+<details>
+  <summary>What You’ll Get Out of This Course</summary>
+  <ol>
+    <li>Advanced Technical Skills</li>
+    <li>Real-World Project Management Experience</li>
+    <li>Mentorship and Guidance</li>
+    <li>Community Support</li>
+    <li>Comprehensive Resources</li>
+    <li>Practical Applications</li>
+    <li>Continuous Improvement</li>
+    <li>Recorded Sessions</li>
+    <li>Networking Opportunities</li>
+    <li>Certificate of Completion</li>
+  </ol>
+</details>
+---
 
 <!-- Top performers will be able get FREE Resume Review and LinkedIn Optimization resources and will get a chance to be on our LinkedIn page, reaching an audience of 100k+ weekly impressions. -->
 <!-- INSERT BUY NOW BUTTON WIDGET HERE or on the side-->
