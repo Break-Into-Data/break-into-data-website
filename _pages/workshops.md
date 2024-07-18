@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Break Into Data Workshops
 permalink: /workshops/
 ---
 
@@ -10,9 +9,10 @@ permalink: /workshops/
 <!-- Below should be like tags here  -->
 NEW · 1 WEEK · COHORT-BASED COURSE
 
-<h2 font-weight: 300> Gain hands-on experience with real-time video analysis and predictive modeling, simulating a professional work environment.</h2>
+<h2 style="font-weight: 300"> Gain hands-on experience with real-time video analysis and predictive modeling, simulating a professional work environment.</h2>
 
 📅 **When:** [Insert Dates Here]
+
 ---
 ## Course Overview
 
@@ -27,14 +27,13 @@ Key abilities you'll develop:
 
 Beyond technical skills, the workshop emphasizes project management, collaboration, and problem-solving, equipping you with valuable industry experience.
 
-**We are providing the real-world job experience by:**
+We are providing the real-world job experience by:
 - **Ticket Assignment:** Experience real-world task management by working on assigned tickets.
 - **Mentorship Program:** Pair up with experienced mentors/instructors who guide you through the project.
 - **LLM Chatbot Assistance:** Use our AI-powered chatbot, trained on project materials, for instant support.
 - **Live Implementation:** Participate in live sessions where you'll implement project parts and get real-time feedback.
 
-### Preliminary Requirements
-
+**Preliminary Requirements:**
 1. Basic Python knowledge and familiarity with libraries such as NumPy, pandas, scikit-learn, etc.
 2. Familiar with basic Machine Learning concepts (e.g., supervised learning, regression, classification).
 3. Understanding of Git and GitHub for version control.
@@ -43,6 +42,7 @@ Beyond technical skills, the workshop emphasizes project management, collaborati
 > A proactive attitude and eagerness to learn and apply new concepts and technologies can ensure a productive and enriching experience regardless of the above requirements.
 
 Don't do it alone - be part of a small cohort of other participants buillding real application systems.
+
 ---
 ## This Course Is For You If You Are:
 
@@ -50,6 +50,7 @@ Don't do it alone - be part of a small cohort of other participants buillding re
 - Interested in working in a real-world project development environment.
 - Seeking to bridge the gap between academic learning and professional work.
 - Ready to enhance your problem-solving and collaboration skills for your next job.
+
 ---
 ## What You’ll Get Out of This Course
 

@@ -12,7 +12,7 @@ What you will get:
 
 
 <div class="text-align: center">
-    <iframe src="https://breakintodata.substack.com/embed" height="320" style="width: 400px; max-width: calc(100vw - 20px); margin: auto; display: block;" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://breakintodata.substack.com/embed" height="320" style="font-family: 'Inter', sans-serif; width: 400px; max-width: calc(100vw - 20px); margin: auto; display: block;" frameborder="0" scrolling="no"></iframe>
 </div>
 
 <div class="discord-widget container">
