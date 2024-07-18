@@ -116,7 +116,7 @@ Don't do it alone - be part of a small cohort of other participants buillding re
 <div class="discord-widget container">
     <h1>Reserve Your Seat Now!</h1>
     <p class="subtitle">Limited seats available so be sure to reserve your spot before it is too late</p>
-    <a href="https://buy.stripe.com/14k8xQ2UV9Rnepq7ss" class="button primary-button">Reserve</a>
+    <a href="https://buy.stripe.com/14k8xQ2UV9Rnepq7ss" class="button primary-button">Enroll Now</a>
 </div>
 
 
