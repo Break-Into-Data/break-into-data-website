@@ -6,160 +6,207 @@ permalink: /workshops/
 
 <div class="page-hero pt-[25vh]">
     <!-- <span class="page-hero-abovetitle">Introducing</span> -->
-    
     <h1 class="page-hero-title">
         <span class="rainbow-text-animated">Corporate</span><br> Machine&nbsp;Learning
     </h1>
     <h2 class="page-hero-smalltitle">
         Practical&nbsp;Workshops
     </h2>
-    <a href="#" class="button primary-button workshops-enroll-button">Enroll Now</a>
+    <a href="https://buy.stripe.com/14k8xQ2UV9Rnepq7ss" class="button primary-button workshops-enroll-button">Enroll Now</a>
     <a href="#" class="button secondary-button workshops-learnmore-button">Learn More</a>
 </div>
 
 ---
-<h1>Real-Time Soccer Tracking and Prediction System</h1>
+<h1>Applied Computer Vision: Real-Time Soccer Tracking and Prediction System</h1>
 
 <!-- Below should be like tags here  -->
 <span class="page-tags">NEW · 1 WEEK · COHORT-BASED COURSE</span>
 
-<h2 style="font-weight: 300"> Gain hands-on experience with real-time video analysis and predictive modeling, simulating a professional work environment.</h2>
+<h2 style="font-weight: 300"> Immerse yourself in a professional environment where you'll learn to build real-time video analysis and predictive modeling systems.</h2>
 
 📅 **When:** [Insert Dates Here]
 
 ---
-## Course Overview
+<h2 class="centered-header">Why Choose This Workshop?</h2>
 
-This workshop immerses you in a real-world project environment, where you'll develop a system to track and predict soccer ball movements in video footage. With a structured workflow, mentorship, and practical tasks, you'll experience what it's like to work on a professional machine learning project.
+Unlike regular Kaggle projects on Jupyter notebooks that don't prepare you for professional data science standards or collaborative work, our workshop offers:
 
-Key abilities you'll develop:
-1. Building predictive models with video data
-2. Implementing real-time video tracking
-3. Building an interactive frontend
-4. Managing tasks and meeting deadlines
-5. Working in real world tech workflow environment
+1. Building predictive models with real-time video data.
+2. Hands-on experience building production-ready applications.
+3. Git version control system (VCS) proficiency.
+4. Exposure to tech stacks used in ML startups and tech companies.
+5. Using Ticket Management System.
+6. Access to our AI-powered chatbot, trained on project materials and live sessions.
+7. Constructive feedback to improve your portfolio.
 
 Beyond technical skills, the workshop emphasizes project management, collaboration, and problem-solving, equipping you with valuable industry experience.
 
-We are providing the real-world job experience by:
-- **Ticket Assignment:** Experience real-world task management by working on assigned tickets.
-- **Mentorship Program:** Pair up with experienced mentors/instructors who guide you through the project.
-- **LLM Chatbot Assistance:** Use our AI-powered chatbot, trained on project materials, for instant support.
-- **Live Implementation:** Participate in live sessions where you'll implement project parts and get real-time feedback.
-
+<br><br>
 **Preliminary Requirements:**
-1. Basic Python knowledge.
-2. Familiar with basic Machine Learning concepts (e.g., supervised learning, regression, classification).
-3. Understanding of Git and GitHub for version control.
-4. Basic understanding of web frameworks such as Streamlit for building interactive web applications.(Optional but Beneficial)
 
-> A proactive attitude and eagerness to learn and apply new concepts and technologies can ensure a productive and enriching experience regardless of the above requirements.
+1. Basic Python knowledge with 6-12 months of coding experience.
+2. Familiar with basic Machine Learning concepts (e.g., supervised learning, regression, classification).
 
 Don't do it alone - be part of a small cohort of other participants buillding real application systems.
+<br><br>
 
----
-<details>
-  <summary>This Course Is For You If You Are:</summary>
+<h2 class="centered-header">Who Is This Workshop Is For?</h2>
+<br>
 <!-- ## This Course Is For You If You Are: -->
-  <ol>
-    <li>Looking to upskill and gain practical experience in video analysis and machine learning.</li>
-    <li>Interested in working in a real-world project development environment.</li>
-    <li>Seeking to bridge the gap between academic learning and professional work.</li>
-    <li>Ready to enhance your problem-solving and collaboration skills for your next job.</li>
-  </ol>
-</details>
+<div class="features-grid">
+    <div class="feature-item">
+        <span class="student-icon"></span>
+        <p>Students who want to work in a real-world project development environment.</p>
+    </div>
+    <div class="feature-item">
+        <span class="chart-icon"></span>
+        <p>Professionals who want to transition to techinal Machine Learning Roles.</p>
+    </div>
+    <div class="feature-item">
+        <span class="video-icon"></span>
+        <p>ML enthusiats who want to gain practical experience in machine learning and video analysis.</p>
+    </div>
+    <div class="feature-item">
+        <span class="people-icon"></span>
+        <p>Ready to enhance your problem-solving and collaboration skills for your next job.</p>
+    </div>
+</div>
+<br><br>
 
 ---
-<details>
-  <summary>What You’ll Get Out of This Course</summary>
-  <ol>
-    <li>Advanced Technical Skills</li>
-    <li>Real-World Project Management Experience</li>
-    <li>Mentorship and Guidance</li>
-    <li>Community Support</li>
-    <li>Comprehensive Resources</li>
-    <li>Practical Applications</li>
-    <li>Continuous Improvement</li>
-    <li>Recorded Sessions</li>
-    <li>Networking Opportunities</li>
-    <li>Certificate of Completion</li>
-  </ol>
-</details>
----
+<h2 class="centered-header">What You'll Get From This Workshop?</h2>
+<br>
+<!-- ## This Course Is For You If You Are: -->
+<div class="features-grid">
+    <div class="feature-item">
+        <span class="check-icon"></span>
+        <p><b>Hands-On Experience:</b> Step-by-step guide to build an industry-grade Computer Vision project.</p>
+    </div>
+    <div class="feature-item">
+        <span class="check-icon"></span>
+        <p><b>Build In-Demand  Skills:</b> Develop and deploy a video analysis model with real-time predictive capabilities and an interactive user-friendly interface.</p>
+    </div>
+    <div class="feature-item">
+        <span class="check-icon"></span>
+        <p><b>Comprehensive Resources:</b> Access to detailed learning materials, code repositories, and a  AI assistant trained on all the workshop materials for instant support.</p>
+    </div>
+    <div class="feature-item">
+        <span class="check-icon"></span>
+        <p><b>Mentorship Program:</b> Get guidance from mentors in the industry, mirroring actual job workflows.</p>
+    </div>
+    <div class="feature-item">
+        <span class="check-icon"></span>
+        <p><b>Networking and Community Support:</b> Join a community of like-minded individuals for knowledge sharing and collaborative problem-solving.</p>
+    </div>
+    <div class="feature-item">
+        <span class="check-icon"></span>
+        <p><b>Continuous Improvement:</b> Learn to identify and implement project enhancements with a proper ticking system.</p>
+    </div>
+    <div class="feature-item">
+        <span class="check-icon"></span>
+        <p><b>Certificate of Completion:</b> Receive an official certificate upon successful project submission and review</p>
+    </div>
+</div>
+<br><br>
 
 <!-- Top performers will be able get FREE Resume Review and LinkedIn Optimization resources and will get a chance to be on our LinkedIn page, reaching an audience of 100k+ weekly impressions. -->
 <!-- INSERT BUY NOW BUTTON WIDGET HERE or on the side-->
 <div class="discord-widget container">
     <h1>Reserve Your Seat Now!</h1>
     <p class="subtitle">Limited seats available so be sure to reserve your spot before it is too late</p>
-    <a href="#" class="button primary-button">Reserve</a>
+    <a href="https://buy.stripe.com/14k8xQ2UV9Rnepq7ss" class="button primary-button">Reserve</a>
+</div>
+
+
+<h2 class="centered-header">🗓️ Workshop Schedule Overview</h2>
+<br>
+<h3 class="centered-header">Day 1-3: Kickoff & Introductions</h3>
+<div class="centered-stuff">
+  <p>Initial cohort and Mentor meeting.</p>
+  <p>Project requirements and Tech Stack Overview.</p>
+  <p>Project Kick-off.</p>
+</div>
+<span class="down-icon"></span>
+
+<h3 class="centered-header">Day 3-4: Project Milestone</h3>
+<div class="centered-stuff">
+<p>Deadline for the first project part.</p>
+<p>Live implementation and feedback session.</p>
+</div>
+<span class="down-icon"></span>
+
+<h3 class="centered-header">Day 4-7: Final Deliverables</h3>
+<div class="centered-stuff">
+<p>Deadline for the final project part.</p>
+<p>Live implementation and Q&A session.</p>
+<p>Final Submissions.</p>
+</div>
+<span class="down-icon"></span>
+
+<h3 class="centered-header">24/7 Ongoing Support</h3>
+<div class="centered-stuff">
+<p>Access to AI assistant trained on all workshop materials for troubleshooting.</p>
+<p>All live sessions will be recorded and available for review.</p>
+<p>Discord Support Channel for instant support.</p>
+</div>
+<br><br>
+
+---
+<h2 class="centered-header">Meet Your Instructors</h2>
+<br>
+<div class="instructor">
+  <img src="/images/kostya.jpg" alt="Kostya Cholak">
+  <div class="bio">
+    <h3>Kostya Cholak</h3>
+    <p>Kostya has built end-to-end infrastructures for analytics, data collection and developed trading algorithms for high frequency trading at a European hedge fund. He is the CTO at Break Into Data.</p>
+  </div>
+</div>
+
+<div class="instructor">
+  <img src="/images/mishahal.png" alt="Mishahal Palakuniyil">
+  <div class="bio">
+    <h3>Mishahal Palakuniyil</h3>
+    <p>Mishahal has been reponsible for building entire data engineering infrastructures and implementing Machine Learning solutions for gamified learning platforms. He is the COO at Break Into Data and a lead instructor.</p>
+  </div>
 </div>
 
 ---
-## Schedule Overview
 
-#### Day 1: Kickoff & Introductions
-- Project Requirements
-- Tech Stack Overview
-- Task Management System
-
-#### Day 2: Work Sessions & Mentorship
-- Begin work on assigned tasks
-- Receive ongoing support from mentors
-
-#### Day 3: First Project Milestone
-- Deadline for the first project part
-- Live implementation and feedback session
-
-#### Day 4-5: Continued Work & Mentorship
-- Progress on next set of tasks
-- Mentor check-ins
-
-#### Day 6: Second Project Milestone
-- Deadline for the second project part
-- Live implementation and final feedback session
-
-#### Day 7: Final Deliverables
-- Completed system deloyment deadline.
-
-#### Ongoing Support
-- **LLM Chatbot Assistance:** Access to an LLM Chatbot for troubleshooting and guidance.
-- **Recorded Sessions:** All live sessions will be recorded and available for review.
-
----
-## Meet Your Instructors
-
-👨‍🏫 **Kostya Cholak:** With years of experience in everything techinal, Kostya brings a wealth of knowledge and a passion for teaching. Having worked on numerous real-world projects, they are excited to guide you through this hands-on workshop.
-
-🧑🏽‍💻 **Mishahal Palakuniyil:** A seasoned data professional and mentor, Mishahal specializes in data analytics and machine learning. Their expertise will be invaluable as you navigate the complexities of the project.
-
-<h2 class="centered-header">This is what people are saying</h2>
+<h2 class="centered-header">Reviews from Previous Community-Led Workshops:</h2>
 <div class="testimonials">
     <div class="testimonial">
       ⭐️ 
       <div class="testimonial-text">
-        “This workshop was a game-changer for me. The real-world experience and mentorship helped me land my first job in data engineering.”
+        "It was a great experience to tackle a machine learning challenge from inception to solution. Every step of the way, there was a wealth of knowledge to absorb. Working alongside a great team made it even more fun."
       </div>
       <div class="testimonial-author">
-        - Madhav 
+        - Gnanambal Kamakshi Renganathan
       </div>
     </div>
   <div class="testimonial">
     ⭐️ 
     <div class="testimonial-text">
-    “The hands-on approach and the supportive environment made learning fun and effective. I highly recommend this workshop!”
+    "Great learning experience."
     </div>
     <div class="testimonial-author">
-      - Dawn
+      - Kamshat Saduakassova
+    </div>
+  </div><div class="testimonial">
+    ⭐️ 
+    <div class="testimonial-text">
+    "It was a really wonderful experience. I enjoy the community because everyone is so friendly and accommodating. It was such a great experience. We participated for the first time, and it was just amazing."
+    </div>
+    <div class="testimonial-author">
+      - Eman Nisar
     </div>
   </div>
   <div class="testimonial">
     ⭐️ 
     <div class="testimonial-text">
-    “The combination of project management, technical skills, and mentorship provided a comprehensive learning experience that truly prepared me for my career.”
+    “Very good experience, exposed so much I dont know.”
     </div>
     <div class="testimonial-author">
-     - Leo
+     - Bilal Saleem
     </div>
   </div>
 </div>
