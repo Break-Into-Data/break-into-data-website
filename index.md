@@ -20,8 +20,9 @@ What you will get:
     <p class="subtitle">Let's connect and discuss data in our community.</p>
     <div class="server-stats">
         <div class="stat-box">
+            <span class="online-indicator"></span>
             <span id="online-members">0</span>
-            <span class="stat-label">Online Now</span>
+            <span class="stat-label">Data Nerds Online Now</span>
         </div>
     </div>
     <a href="#" id="join-button" class="join-button">Join Server</a>
