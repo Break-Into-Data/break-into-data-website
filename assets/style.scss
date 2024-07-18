@@ -475,28 +475,28 @@ p > img {
 }
 
 nav {
-  /* Remove float */
-  float: none;
-  /* Center the nav */
-  text-align: center;
-  /* Add some top margin to position it below the title and image */
-  margin-top: 20px;
+  float: right;
+  margin-top: 23px; // @TODO: Vertically middle align
+  // font-family: $helveticaNeue;
   font-size: 18px;
 
   @include mobile {
-    margin-top: 15px;
+    float: none;
+    margin-top: 9px;
+    display: block;
     font-size: 16px;
   }
 
   a {
-    /* Remove left margin and add some horizontal padding */
-    margin-left: 0;
-    padding: 0 10px;
+    margin-left: 20px;
+    // color: $darkGray;
+    text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
-      padding: 0 5px;
+      margin: 0 10px;
+      // color: $blue;
     }
   }
 }
