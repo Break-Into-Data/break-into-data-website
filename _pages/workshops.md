@@ -133,12 +133,36 @@ Don't do it alone - be part of a small cohort of other participants buillding re
 
 🧑🏽‍💻 **Mishahal Palakuniyil:** A seasoned data professional and mentor, Mishahal specializes in data analytics and machine learning. Their expertise will be invaluable as you navigate the complexities of the project.
 
-### Testimonials
-⭐️ **"This workshop was a game-changer for me. The real-world experience and mentorship helped me land my first job in data engineering."** - Madhav 
-
-⭐️ **"The hands-on approach and the supportive environment made learning fun and effective. I highly recommend this workshop!"** - Dawn
-
-⭐️ **"The combination of project management, technical skills, and mentorship provided a comprehensive learning experience that truly prepared me for my career."** - Leo
+<h2 class="centered-header">This is what people are saying</h2>
+<div class="testimonials">
+    <div class="testimonial">
+      ⭐️ 
+      <div class="testimonial-text">
+        “This workshop was a game-changer for me. The real-world experience and mentorship helped me land my first job in data engineering.”
+      </div>
+      <div class="testimonial-author">
+        - Madhav 
+      </div>
+    </div>
+  <div class="testimonial">
+    ⭐️ 
+    <div class="testimonial-text">
+    “The hands-on approach and the supportive environment made learning fun and effective. I highly recommend this workshop!”
+    </div>
+    <div class="testimonial-author">
+      - Dawn
+    </div>
+  </div>
+  <div class="testimonial">
+    ⭐️ 
+    <div class="testimonial-text">
+    “The combination of project management, technical skills, and mentorship provided a comprehensive learning experience that truly prepared me for my career.”
+    </div>
+    <div class="testimonial-author">
+     - Leo
+    </div>
+  </div>
+</div>
 
 ---
 
