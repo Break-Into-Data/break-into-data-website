@@ -4,7 +4,7 @@ permalink: /workshops/
 ---
 
 
-<h1>Real-Time Soccer Tracking and Prediction System</h1>
+# Real-Time Soccer Tracking and Prediction System
 
 <!-- Below should be like tags here  -->
 NEW · 1 WEEK · COHORT-BASED COURSE

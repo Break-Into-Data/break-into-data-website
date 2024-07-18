@@ -113,6 +113,32 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 10px;
 }
 
+.active-users {
+  display: flex;
+  align-items: center;
+}
+
+#user-avatars {
+  display: flex;
+}
+
+#user-avatars img {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  margin-right: -10px;
+  border: 2px solid #36393f;
+}
+
+#additional-users {
+  background-color: #36393f;
+  color: #fff;
+  border-radius: 50%;
+  padding: 5px 8px;
+  font-size: 12px;
+  margin-left: 5px;
+}
+
 .stat-box {
   display: flex;
   align-items: center;
@@ -158,7 +184,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 28px;
+  font-size: 30px;
   a {
     color: inherit;
   }
