@@ -67,6 +67,12 @@ Don't do it alone - be part of a small cohort of other participants buillding re
 
 <!-- Top performers will be able get FREE Resume Review and LinkedIn Optimization resources and will get a chance to be on our LinkedIn page, reaching an audience of 100k+ weekly impressions. -->
 <!-- INSERT BUY NOW BUTTON WIDGET HERE or on the side-->
+<div class="discord-widget container">
+    <h1>Reserve Your Seat Now!</h1>
+    <p class="subtitle">Limited seats available so be sure to reserve your spot before it is too late</p>
+    <a href="#" id="join-button" class="join-button">Reserve</a>
+</div>
+
 ---
 ## Schedule Overview
 

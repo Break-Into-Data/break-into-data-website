@@ -29,7 +29,6 @@ What you will get:
         <span id="online-members">0</span>
         <span class="stat-label">Data Nerds Active Now</span>
     </div>
-
     <a href="#" id="join-button" class="join-button">Join Server</a>
 </div>
 
