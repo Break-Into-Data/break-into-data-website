@@ -13,7 +13,7 @@ permalink: /workshops/
         Practical&nbsp;Workshops
     </h2>
     <a href="https://buy.stripe.com/14k8xQ2UV9Rnepq7ss" class="button primary-button workshops-enroll-button">Enroll Now</a>
-    <a href="#" class="button secondary-button workshops-learnmore-button">Learn More</a>
+    <a href="#image" class="button secondary-button workshops-learnmore-button">Learn More</a>
 </div>
 <!-- <img src="/images/workshops-banner.jpg" alt="Workshops Banner" style="width: 100%; height: auto; margin-top: 20px; margin-bottom: 20px;"> -->
 
@@ -26,7 +26,7 @@ permalink: /workshops/
 <h2 style="font-weight: 300"> Immerse yourself in a professional environment where you'll learn to build real-time video analysis and predictive modeling systems.</h2>
 
 📅 **When:** Aug 3 - Aug 10, 2024
-<img src="/images/workshops-banner.jpg" alt="Workshops Banner" style="width: 100%; height: auto; margin-top: 20px; margin-bottom: 20px;">
+<img src="/images/workshops-banner.jpg" alt="Workshops Banner" style="width: 100%; height: auto; margin-top: 20px; margin-bottom: 20px;" id="image">
 
 
 <h2 class="centered-header">Why Choose This Workshop?</h2>
