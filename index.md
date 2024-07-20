@@ -1,6 +1,7 @@
 ---
 title: Build. Learn. Show
 layout: page
+title: Home
 ---
 
 Whether you're aiming for that dream job, wanting to boost your skills, acing academics, or even achieving fitness goals, **Break Into Data** is a community that will support and empower you to reach new heights!  
