@@ -13,8 +13,6 @@ title: Home
     <a href="https://discord.gg/xP6YaXjd" class="button secondary-button workshops-learnmore-button">Join Discord</a>
 </div>
 
-<h2 class="centered-header">Why Choose Break Into Data?</h2>
-
 ### 👥 Community Hub
 
 Connect with peers, find study buddies, and access job hunting resources in our thriving Discord community. Track your progress with our AI-powered tools. Join 2000+ data enthusiasts on Discord.
