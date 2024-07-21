@@ -6,7 +6,7 @@ permalink: /about/
 
 Break Into Data is a thriving community dedicated to empowering the next generation of data professionals. Our mission is to bridge the gap between theoretical knowledge and practical, industry-relevant skills, helping you launch and advance your career in the exciting world of data science and analytics.
 
-## Our Offerings
+<h2 class="centered-header">Our Offerings</h2>
 
 ### 🛠️ Professional Workshops
 
@@ -84,7 +84,7 @@ At Break Into Data, we believe in learning by doing, growing through community, 
 **Ready to break into data?** Explore our workshops, join our community, and subscribe to our YouTube channel to start your journey today!
 
 <div class="cta-buttons">
-  <a href="/workshops" class="cta-button">Explore Workshops</a>
-  <a href="#" id="discord-link" class="cta-button">Join Our Discord</a>
-  <a href="https://www.youtube.com/@BreakIntoData" class="cta-button">Subscribe on YouTube</a>
+  <a href="/workshops" class="button primary-button workshops-enroll-button">Explore Workshops</a>
+  <a href="#" id="discord-link" class="button primary-button workshops-enroll-button">Join Our Discord</a>
+  <a href="https://www.youtube.com/@BreakIntoData" class="button primary-button workshops-enroll-button">Subscribe on YouTube</a>
 </div>
