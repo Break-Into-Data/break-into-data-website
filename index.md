@@ -10,7 +10,7 @@ title: Home
     <p style="margin-right: 60px;">
     Break Into Data is your launchpad into the world of data science and analytics. We provide hands-on experience, expert guidance, and a supportive community to help you thrive in the data-driven job market.</p>
     <a href="/workshops" class="button primary-button workshops-enroll-button">Explore Workshops</a>
-    <a href="https://discord.gg/xP6YaXjd" class="button secondary-button workshops-learnmore-button">Join Discord</a>
+    <a href="https://discord.gg/EM5ECyEbyV" class="button secondary-button workshops-learnmore-button">Join Discord</a>
 </div>
 
 ### 👥 Community Hub
