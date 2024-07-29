@@ -13,7 +13,7 @@ permalink: /workshops/
     <h2 class="page-hero-smalltitle">
         Practical&nbsp;Workshops
     </h2>
-    <a href="https://buy.stripe.com/14k8xQ2UV9Rnepq7ss" class="button primary-button workshops-enroll-button">Enroll Now</a>
+    <a href="#" class="button primary-button workshops-enroll-button">Sold out</a>
     <a href="#image" class="button secondary-button workshops-learnmore-button">Learn More</a>
 </div>
 <!-- <img src="/images/workshops-banner.jpg" alt="Workshops Banner" style="width: 100%; height: auto; margin-top: 20px; margin-bottom: 20px;"> -->
