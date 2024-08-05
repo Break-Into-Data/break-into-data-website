@@ -160,7 +160,7 @@ Don't do it alone - be part of a small cohort of other participants buillding re
 <div class="instructor">
   <img src="/images/kostya.jpg" alt="Kostya Cholak">
   <div class="bio">
-    <h3>Kostya Cholak</h3>
+    <h3>Kostya Cholak - Lead Instructor</h3>
     <p>Kostya has built end-to-end infrastructures for analytics, data collection and developed trading algorithms for high frequency trading at a European hedge fund. He is the CTO at Break Into Data.</p>
   </div>
 </div>
@@ -168,7 +168,7 @@ Don't do it alone - be part of a small cohort of other participants buillding re
 <div class="instructor">
   <img src="/images/mishahal.png" alt="Mishahal Palakuniyil">
   <div class="bio">
-    <h3>Mishahal Palakuniyil</h3>
+    <h3>Mishahal Palakuniyil - Advisor</h3>
     <p>Mishahal has been reponsible for building entire data engineering infrastructures and implementing Machine Learning solutions for gamified learning platforms. He is the COO at Break Into Data and a lead instructor.</p>
   </div>
 </div>
